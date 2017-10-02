@@ -1,0 +1,2 @@
+1. tylor series to get erro, how to value the relative error
+2. linear regression vs non-linear regression
